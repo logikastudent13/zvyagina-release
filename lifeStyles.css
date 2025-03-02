@@ -339,6 +339,7 @@ h3{
 
 .lifearticle:hover{
     background-color: #eac5f1;
+    transform: scale(1.1);
 }
 
 .lifearticle2{
@@ -362,7 +363,8 @@ h3{
 }
 
 .lifearticle2:hover{
-    background-color: #eac5f1
+    background-color: #eac5f1;
+    transform: scale(1.1);
 }
 
 .micro2{
